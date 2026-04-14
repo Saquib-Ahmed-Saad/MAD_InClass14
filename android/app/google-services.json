@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854799983216",
+    "project_id": "inclass14-6d19c",
+    "storage_bucket": "inclass14-6d19c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854799983216:android:00f4b6083f77e3982f8ab5",
+        "android_client_info": {
+          "package_name": "com.fitio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoAKkhb1psNkRELcV6SPUcOfhsest0Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
